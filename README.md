@@ -2,26 +2,6 @@
 
 Proyecto para pulir conocimientos sobre AWS, Docker y bases de datos mongoDB.
 
-### Prerequisitos
-
-Para elaborar este proyecto se requirio de : 
-
-
-Maven: Apache Maven es una herramienta que maneja el ciclo de vida del programa.
-
-
-
-Git: Es un sistema de control de versiones distribuido (VCS).
-
-
-
-Java 17: Java es un lenguaje de programación de propósito general orientado a objetos, portátil y muy versátil.
-
-
-Docker : Automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.
-
-AWS : Es una colección de servicios de computación en la nube pública que en conjunto forman una plataforma de computación en la nube, ofrecidas a través de Internet por Amazon.com
-
 ### Preparacion
 
 Clonamos el repositorio
